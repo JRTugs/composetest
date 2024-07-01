@@ -107,5 +107,17 @@ docker compose up -d
   ![image](https://github.com/JRTugs/composetest/assets/29426766/72aefd25-96c7-4303-be11-031c1014ab99)
 
   
+## EXPLANATION
+
+**Docker Image**
+  - The dockerfile as well as all necessary files needed to setup a website is provided in the https://docs.docker.com/compose/gettingstarted/ website. Everything is straight forward.
+
+**Monitoring Script**
+  - Creating a python script seems to be pretty much convenient as parameters that needed to be updated are already included in the script such as the email address, passowrd, smtp details as well as the url to be monitored. Tried to check on shell script and it requires additional application such as sendmail and must be configured to allow the server to send out email.
+
+
+
+
+
   
 
