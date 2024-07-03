@@ -8,7 +8,7 @@ import email.utils  # Import for generating Message-ID
 
 # AWS SES configuration
 AWS_REGION = 'us-east-1'  # Replace with your AWS region
-SENDER_EMAIL = 'jodo0131@gmail.com'  # Replace with your verified SES email address
+SENDER_EMAIL = 'your_email@example.com'  # Replace with your verified SES email address
 
 # Configure logging
 logging.basicConfig(filename='monitoring.log', level=logging.INFO)
@@ -56,7 +56,7 @@ def check_webapp(url):
 
 # Main function to run the monitoring
 def main():
-    recipient_email = 'jodo0131@gmail.com'  # Replace with recipient's email address
+    recipient_email = 'your_email@example.com'  # Replace with recipient's email address
     subject = 'Web Application is DOWN'
     body = 'Your web application is not responding correctly.'
 
