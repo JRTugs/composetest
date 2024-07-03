@@ -164,7 +164,7 @@ aws configure
 python3 monitoring_aws.py
 ```
   
-# Testing your monitoring script if it will send an email alert once it is down
+# Testing your monitoring script
 
   - Stop the docker image from running to make the website not accessible
 ```bash
