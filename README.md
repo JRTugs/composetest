@@ -135,7 +135,7 @@ python3 monitor.py
   - On Identity details, Click "Email Address"
   - Under Email Address field, Fill in your email address and Click "Create Identity"
 
-  ![image](https://github.com/JRTugs/composetest/assets/29426766/7c451168-9b82-4e74-a28e-6a07330867ff)
+  ![image](https://github.com/JRTugs/composetest/assets/29426766/620761d8-1f9e-44e6-b0a8-adc974e302e7)
 
   - Check you email and confirm the request to authorize use of email
 
@@ -143,7 +143,8 @@ python3 monitor.py
 
   - Once confirmed, Identity status will be verified
 
-  ![image](https://github.com/JRTugs/composetest/assets/29426766/e4998d8f-3872-4897-86d4-a6edacc0cb9b)
+  ![image](https://github.com/JRTugs/composetest/assets/29426766/2c96b660-3bec-4758-8873-929736a6e0fd)
+
 
 **4. Connecting server to AWS**
 
